@@ -1,4 +1,4 @@
-# Hey there sports fan!
+# Welcome!
 </br>
 
 Since we haven't officially met yet, here's a little **About Me**
