@@ -1,14 +1,10 @@
 # Welcome!
 </br>
 
-Since we haven't officially met yet, here's a little **About Me**
+### Since we haven't officially met yet, here's a little **About Me**
 </br>
 
-> Curious by nature, I am passionate about understanding the world around me, and today's world is built around one crutial element: Technology.
->
-> Where others may see a simple website or a fun videogame, I see a question; gaps in my knowledge that I crave to fill. 
->
-> I have always strived to study, understand and bring my curiosities into existence, driving me to delve deep into the world of Computer Science. And I don't intend to surface anytime soon.
+I am currently a Junior at Penn State studying Computer Science and this last Summer I was an intern at Carnegie Mellon's SEI division, where I will be continuing to work throughout the next semester.
 
 </br>
 
