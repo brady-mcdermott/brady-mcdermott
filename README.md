@@ -4,7 +4,7 @@
 ### Since we haven't officially met yet, here's a little **About Me**
 </br>
 
-I am currently a Junior at Penn State studying Computer Science and this last Summer I was an intern at Carnegie Mellon's SEI division, where I will be continuing to work throughout the next semester.
+I am currently studying Computer Science at Penn State and during the summer of 2022 I was an intern at Carnegie Mellon's SEI division, where I will be continuing to work throughout the upcoming semester.
 
 </br>
 
